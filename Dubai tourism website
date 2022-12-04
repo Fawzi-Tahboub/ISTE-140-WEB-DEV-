@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="desk.css">
+    <title>Desktop</title>
+</head>
+<body>
+
+    <nav id="navbar">
+        <ul>
+            <li class="flex-items">
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Services</a>
+            </li>
+        </ul>
+    </nav>
+    
+    
+
+
+    <div id="vid">
+    <video autoplay loop muted plays-inline class="backvideo">
+        <source src="/Web-140/Street - 19627.mp4" type="video/mp4"
+    </video>
+
+        </div>
+
+
+
+        <main id="main">
+            <div class="text">
+                <h1>The Heart of Dubai</h1>
+                <button>Explore DXB</button>
+            </div>
+
+
+        
+
+        </main>
+
+
+
+        <div id="pic1">
+            <img src="/Web-140/emarrrrrrr.png">
+        </div>
+
+        <div id="pic2">
+            <img src="/Web-140/850px-Emirates_logo.svg.png">
+        </div>
+
+        
+
+        
+
+        
+            
+        
+
+
+
+
+    
+
+
+
+
+
+    
+</body>
+</html>
